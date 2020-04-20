@@ -1,4 +1,4 @@
-# polynomail_equation
+# polynomial_equation
 Polynomial equation solver. Support operation like create variable(copy intialisation/no intialisation), input(cin>>), output(cout<<), operator=, operator+, operators- and operators*.
 NOTE: 
 1. enter input in decreasing order of power.
