@@ -1,5 +1,5 @@
 # polynomail_equation
-Polynomial equation solver. Support operation like create variable, input(cin>>), output(cout&lt;&lt;), operator+, operators- and operators*.  
+Polynomial equation solver. Support operation like create variable, input(cin>>), output(cout<<), operator+, operators- and operators*.  
 Example: Polynomial p1, p2, p3;
          cin>>p1>>p2;
          cout<<p1;
@@ -7,6 +7,6 @@ Example: Polynomial p1, p2, p3;
          p3 = p1 + p2;
          p3 = p1 * p2;
          p3 = p1 - p2;
-         heloo
+     
 
 
